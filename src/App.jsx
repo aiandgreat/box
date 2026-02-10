@@ -13,7 +13,7 @@ function Box({ subject }) {
 }
 
 export default function App() {
-  const surname = "Aian Jae Garcia";
+  const surname = "Garcia";
   const subject = "CPEITEL";
 
   return (
